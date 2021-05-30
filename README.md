@@ -9,6 +9,7 @@
 - 
 
 ### Art Assests 
-- [a website include many pixel assests] (https://itch.io/game-assets/tag-pixel-art)
+- [itch.io](https://itch.io/game-assets/tag-pixel-art)
+- [opengameart.org](https://opengameart.org/)
 - [others] (google.com)
 - 
